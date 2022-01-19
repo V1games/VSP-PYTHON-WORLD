@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+   <style type="text/css">
+      body {
+         display: flex;
+         min-height: 1000vh;
+         flex-direction: column;
+      }
+      main {
+         flex: 1 0 auto;
+      }
+   </style>
+</head>
+<body>
+   <nav>
+      <div class="nav-wrapper">
+         <a href="#!" class="brand-logo"> Brand </a>
+      </div>
+   </nav>
+   
+   <div class="container">
+      <div class="row">
+         
+         <div class="col s12 m3">
+            <div class="collection">
+               <a href="#!" class="collection-item active"> Main Menu </a>
+               <a href="#!" class="collection-item"><i class="material-icons">home</i> Home</a>
+               <a href="#!" class="collection-item"><i class="material-icons">info</i> About </a>
+               <a href="#!" class="collection-item"><i class="material-icons">web_asset</i> Articles </a>
+               <a href="#!" class="collection-item"><i class="material-icons">linked_camera</i> Gallery </a>
+            </div>
+         </div>
+         
+         <div class="col s12 m9">
+            <h2> Hello World! </h2>
+            
+
+</body>
+</html>
